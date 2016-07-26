@@ -1,0 +1,22 @@
+{
+  "name": "wechat",
+  "version": "0.0.0",
+  "description": "wechat platform server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wxd0656/wechat.git"
+  },
+  "keywords": [
+    "wechat"
+  ],
+  "author": "xi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wxd0656/wechat/issues"
+  },
+  "homepage": "https://github.com/wxd0656/wechat#readme"
+}
