@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/wxd0656/wechat/issues"
   },
-  "homepage": "https://github.com/wxd0656/wechat#readme"
+  "homepage": "https://github.com/wxd0656/wechat#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "log4js": "^0.6.38"
+  }
 }
